@@ -1,6 +1,7 @@
+"""Module with download video page"""
 import streamlit as st
 
-from utils import download_video
+from src.utils import download_video
 
 st.title("Download video")
 

@@ -1,6 +1,7 @@
+"""Module with get preview of video page"""
 import streamlit as st
 
-from utils import get_preview_image
+from src.utils import get_preview_image
 
 st.title("Get video preview")
 

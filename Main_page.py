@@ -1,3 +1,4 @@
+"""Module with service main page"""
 import streamlit as st
 
 # Set service title
